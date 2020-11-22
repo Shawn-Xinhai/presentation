@@ -1,3 +1,6 @@
+/**
+===========layout=============
+*/
 .flex {
   display: flex;
 }
@@ -12,4 +15,46 @@
 
 .flex-grow-1 {
   flex-grow: 1;
+}
+
+/**
+===========geometry=============
+*/
+.padding-small {
+  padding: 16px;
+}
+
+/**
+===========color=============
+*/
+.good {
+  color: #52C41B;
+}
+
+.ok {
+  color: #FAAD14;
+}
+
+.danger {
+  color: #F4222D;
+}
+
+/**
+===========border=============
+*/
+.border-bottom {
+  border-bottom: 1px solid #E2E5ED;
+}
+
+/**
+===========typography=============
+*/
+.line-h-lg {
+  line-height: 1.5;
+}
+.text-primary {
+  color: #4A8CF9;
+}
+.text-muted {
+  color: #AEAEAE;
 }
