@@ -58,3 +58,9 @@
 .text-muted {
   color: #AEAEAE;
 }
+.bold {
+  font-weight: bold;
+}
+.font-small {
+  font-size: 1.5rem;
+}
