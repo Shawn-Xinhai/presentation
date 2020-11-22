@@ -10,6 +10,3 @@ tmp/**
 node_modules/
 .sass-cache
 dist/*.map
-
-*.mp4
-*.MP4
